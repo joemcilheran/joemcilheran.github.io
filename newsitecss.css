@@ -1,8 +1,54 @@
-p {
-	font-family: sans-ferif;
-	color: #0000FF;
+body {
+	text-align: center;
+	background: orange;
 }
-#awesomeText { font-family: 'Times New Roman', Georgia, Serif; }
-.soft { color: #a8a8a8; }
-.center { text-align: center; }
-.container { margin: 0 auto; }
+h1 {
+     font-family: Georgia;
+	 font-size: 4em;
+	 color: Green
+}
+p {
+	font-family: Courier;
+	font-size: 1em;
+	color: black;
+}
+table {
+	border-collapse: collapse;
+	text-align: center
+	margin-right: 50%
+	margin-left: 50%
+}
+table, th, td {
+	border: 3px solid blue;
+    text-align: center
+	margin-right: 50%
+	margin-left: 50%
+}
+thead {
+	font-family: Ariel;
+	font-size: 2em;
+	font-weight: bold;
+	color: red;
+}
+tbody {
+	font-family: Ariel;
+	font-size: 1em;
+	font-weight: normal;
+	color: black;
+}
+ul {
+	 list-style-type: none;
+	 margin: 0
+	 padding: 0
+	 font-family: courier;
+	 font-size: 2em
+	 color: pink
+}
+li {
+	display: inline;
+	margin: 5pxl
+	padding: 5pxl
+}
+	
+	
+	
